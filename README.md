@@ -17,7 +17,7 @@ The application also includes client-side and server-side rendering (SSR) for op
 ## Getting Started
 
     Clone this repository:
-    git clone https://github.com/sameera222/advanced-blog-application.git
+    git clone https://github.com/sameera222/Advanced-Blog-Application.git
 
 Install the dependencies:
 
