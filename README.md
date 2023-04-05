@@ -1,4 +1,4 @@
-Advanced Blog Application
+## Advanced Blog Application
 
 A simple blog application built with Next.js.
 
